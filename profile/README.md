@@ -4,7 +4,9 @@
 
 <h1 align="center">Ryugi 流儀</h1>
 
-<p align="center"><i>ryoo-ghee</i> · Japanese for “a school's own way of doing things”</p>
+<p align="center">Say it <b>RYOO-ghee</b> · /ˈrjuːɡi/<br><i>ryoo</i> is one syllable that rhymes with “you”; <i>ghee</i> has a hard g, as in “geese”.</p>
+
+<p align="center">Japanese for “a school's own way of doing things”</p>
 
 <p align="center"><b>Artifacts for coding agents.</b><br>Your agent draws its options instead of describing them. You pick, comment and pass.</p>
 
