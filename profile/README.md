@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="banner.jpg" alt="Three terracotta brush strokes on paper, rising into one" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.webp">
+    <img src="banner-light.webp" alt="Three terracotta brush strokes, rising into one" width="100%">
+  </picture>
 </p>
 
 <h1 align="center">Ryugi 流儀</h1>
@@ -22,6 +25,5 @@ npx ryugi-artifacts install
 
 <p align="center">
   <a href="https://github.com/Innei/ryugi">Ryugi</a> ·
-  <a href="https://github.com/Innei/ryugi/blob/main/docs/install.md">Install</a> ·
-  <a href="https://ryugi.innei.dev">Ryugi Cloud</a>
+  <a href="https://github.com/Innei/ryugi/blob/main/docs/install.md">Install</a>
 </p>
