@@ -5,13 +5,13 @@
   </picture>
 </p>
 
-<h1 align="center">Ryugi 流儀</h1>
+<h1 align="center">Ryugi (流儀) — Interactive Artifacts for Coding Agents</h1>
 
 <p align="center">Say it <b>RYOO-ghee</b> · /ˈrjuːɡi/<br><i>ryoo</i> is one syllable that rhymes with “you”; <i>ghee</i> has a hard g, as in “geese”.</p>
 
 <p align="center">Japanese for “a school's own way of doing things”</p>
 
-<p align="center"><b>Artifacts for coding agents.</b><br>Your agent draws its options instead of describing them. You pick, comment and pass.</p>
+<p align="center"><b>Interactive artboards, design docs, whiteboards, HTML benches and verify reports for coding agents.</b><br>Your agent draws its options instead of describing them in Markdown. Pick, comment and send feedback straight back to your agent session.</p>
 
 ```bash
 npx ryugi-artifacts install
